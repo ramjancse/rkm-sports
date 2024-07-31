@@ -3,5 +3,5 @@ services:
   web:
     image: rkm-sports
     ports:
-      - "8081:80"  
-      - "8444:443" 
+      - "8082:80"  
+      - "8445:443" 
